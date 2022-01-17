@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "userID": 1,
+      "fullName": "Николай Петренко",
+      "password": "qwer1234",
+      "email": "niko@ya.ru"
+    },
+    {
+      "userID": 2,
+      "fullName": "admin",
+      "password": "adminadmin",
+      "email": "admin@ya.ru"
+    }
+  ]
+}
