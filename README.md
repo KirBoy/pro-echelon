@@ -4,6 +4,6 @@
 
 login: admin
 
-password:adminadmin
+password: adminadmin
 
 email: admin@ya.ru
